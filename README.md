@@ -94,9 +94,10 @@ http://localhost:8000/
 
 - Enter a **JEE Advanced rank** in the input field.  
 - Click **"Get Predictions"** to view recommended institutes and branches.  
-- Explore **visual charts** showing historical trends and comparative analytics.  
+- Explore **visual charts** showing historical trends and comparative analytics.
 
----
+```
+
 
 ##  Project Structure
 
