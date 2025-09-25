@@ -98,7 +98,7 @@ http://localhost:8000/
 
 ```
 
-
+```
 ##  Project Structure
 
 College-Predictor/
@@ -109,6 +109,7 @@ College-Predictor/
 ├── templates/ # HTML templates
 ├── manage.py
 └── requirements.txt
+```
 
 ## Future Improvements
 
