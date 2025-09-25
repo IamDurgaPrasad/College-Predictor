@@ -89,3 +89,34 @@ python manage.py runserver
 
 # Open browser at:
 http://localhost:8000/
+
+##  Usage
+
+- Enter a **JEE Advanced rank** in the input field.  
+- Click **"Get Predictions"** to view recommended institutes and branches.  
+- Explore **visual charts** showing historical trends and comparative analytics.  
+
+---
+
+##  Project Structure
+
+College-Predictor/
+├── MainApp/ # Django application folder
+├── JoSAA/ # Data scraping / preprocessing modules
+├── webscrapping_scripts_and_files/
+├── static/ # Static assets (CSS, JS, images)
+├── templates/ # HTML templates
+├── manage.py
+└── requirements.txt
+
+## Future Improvements
+
+Expand to support other exams (e.g. JEE Main, state exams).
+
+Integrate machine learning algorithms for better predictive accuracy.
+
+Add user authentication + personalized recommendation history.
+
+Store data in a scalable DB (PostgreSQL, etc.), host the app online.
+
+Add confidence scores or ranges instead of single predictions.
